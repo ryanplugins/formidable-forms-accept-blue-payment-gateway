@@ -8,13 +8,13 @@ Stable tag: 1.0.1
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Accept credit card payments through accept.blue directly inside your Formidable Forms. Free Lite version — upgrade to Pro for recurring billing, refunds, fraud shield, and more.
+Accept credit card payments through accept.blue directly inside your Formidable Forms.
 
 == Description ==
 
 **Secure Form Checkout** connects your Formidable Forms payment forms to the accept.blue payment processing platform. All card data is handled inside a secure accept.blue Hosted Tokenization iFrame — it never passes through your server, keeping your site PCI-compliant.
 
-This is the **free Lite version**. Upgrade to Pro to unlock additional features.
+This is the **free Lite version**.
 
 = What's Included in Lite =
 
@@ -82,10 +82,6 @@ No. Deactivate Lite before activating Pro. All PHP classes, functions, constants
 = How is Lite different from Pro? =
 
 Lite handles one-time credit card payments, 3DS2 authentication, per-form API credential overrides, and debug logging. Pro adds recurring billing, installment plans, auth-only/capture, refunds, voids, an admin transactions panel, webhooks, fraud protection, and a revenue dashboard.
-
-= Where do I upgrade to Pro? =
-
-Visit https://ryanplugins.net/product/formidable-accept-blue-payment-gateway/ for Pro version details and pricing.
 
 = What statuses does the plugin use? =
 

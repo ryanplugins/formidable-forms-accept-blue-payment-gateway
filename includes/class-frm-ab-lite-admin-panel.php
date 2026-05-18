@@ -64,7 +64,7 @@ class Frm_AB_Lite_Admin_Panel {
 		wp_add_inline_style( 'wp-admin', self::license_css() );
 
 		// ── Transactions panel JS ─────────────────────────────────────────────
-		// (Panel shows a Pro upgrade notice in Lite — no action buttons to wire up)
+		// (Panel renders the log viewer in Lite)
 
 		// ── Settings/Formidable admin pages ───────────────────────────────────
 		if ( $is_formidable ) {
